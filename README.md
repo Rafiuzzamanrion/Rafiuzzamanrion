@@ -28,7 +28,7 @@ I'm Rafiuzzaman Rion, a passionate Full-stack Web developer from Dhaka, with a l
   </a>
 </p>
 
-## 🛠️ Visual Showcase of Languages and Tools
+## 🛠️ Technologies & Tools
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" alt="React"/>
