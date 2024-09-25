@@ -52,7 +52,7 @@ I'm Rafiuzzaman Rion, a passionate Full-stack Web developer from Dhaka, with a l
 
 ## 📌 Featured Projects
 <p align="center">
-  <a href="https://github.com/RafiuzzamanRion/your-project">
+  <a href="https://github.com/RafiuzzamanRion/amazon-client">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafiuzzamanRion&repo=your-project&theme=radical" />
   </a>
   <a href="https://github.com/RafiuzzamanRion/another-project">
