@@ -8,24 +8,23 @@
 </p>
 
 ### 👋 About Me
-I'm Rafiuzzaman Rion, a passionate MERN stack developer from Dhaka, with a love for building dynamic and efficient web applications. Always eager to learn and explore new technologies, I enjoy solving problems and contributing to open-source projects. Welcome to my GitHub profile!
+I'm Rafiuzzaman Rion, a passionate Full-stack Web developer from Dhaka, with a love for building dynamic and efficient web applications. Always eager to learn and explore new technologies, I enjoy solving problems and contributing to open-source projects. Welcome to my GitHub profile!
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/rafiuzzaman-rion" target="_blank">
+  <a href="https://www.linkedin.com/in/rafiuzzaman-rion-ba3575291/">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/yourusername" target="_blank">
+  <a href="https://www.facebook.com/rafiuzzaman5683/">
     <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/rafiuzzaman_rion/">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" />
+  
+  <a href="mailto:rafiujjaman5683@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" />
   </a>
-  <a href="https://wa.me/yourwhatsappnumber" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" />
   </a>
 </p>
 
@@ -38,7 +37,6 @@ I'm Rafiuzzaman Rion, a passionate MERN stack developer from Dhaka, with a love 
   <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/prisma.png" alt="Prisma"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
