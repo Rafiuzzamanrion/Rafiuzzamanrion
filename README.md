@@ -50,17 +50,5 @@ I'm Rafiuzzaman Rion, a passionate Full-stack Web developer from Dhaka, with a l
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiuzzamanRion&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 📌 Featured Projects
-<p align="center">
-  <a href="https://github.com/RafiuzzamanRion/amazon-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafiuzzamanRion&repo=your-project&theme=radical" />
-  </a>
-  <a href="https://github.com/RafiuzzamanRion/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafiuzzamanRion&repo=another-project&theme=radical" />
-  </a>
-</p>
 
-## 📊 Weekly Development Breakdown
-<!-- Wakatime Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RafiuzzamanRion&theme
+
