@@ -2,6 +2,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   Hi there, I'm Rafiuzzaman Rion!
 </h1>
+### 👋 About Me
+I am a passionate MERN stack developer from Dhaka, with a love for building dynamic and efficient web applications. Always eager to learn and explore new technologies, I enjoy solving problems and contributing to open-source projects. Welcome to my GitHub profile!
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=25&center=true&vCenter=true&lines=MERN+Stack+Developer;Full-Stack+Web+Enthusiast;Always+Learning+New+Things!" />
