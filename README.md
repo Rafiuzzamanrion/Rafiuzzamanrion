@@ -23,11 +23,11 @@ Hello! I'm **Rafiuzzaman Rion**, a passionate and creative Full-Stack Web Develo
 I specialize in building modern, scalable web applications using the **MERN stack**, and I love transforming ideas into reality through code.  
 I'm always eager to learn new technologies, contribute to open-source, and collaborate with global teams.
 
-- 🌱 Currently learning: **TypeScript, Next.js, and Cloud Technologies**
+- 🌱 Currently learning: **Python, C++, and Cloud Technologies**
 - 🚀 Always up for a new challenge!
 - 🧑‍🏫 Mentoring junior developers & sharing knowledge
 - 📢 Open for freelance/remote opportunities
-- 🏆 Competitive coder and hackathon enthusiast
+- 🏆 Competitive coder
 
 ---
 
@@ -86,7 +86,6 @@ I'm always eager to learn new technologies, contribute to open-source, and colla
 
 ## 🏅 Achievements & Interests
 
-- 🏆 2x Hackathon Winner (Dhaka)
 - 📝 15+ Open Source Contributions
 - 💡 Love solving complex problems with simple solutions
 - 🌎 Interested in remote and global collaborations
