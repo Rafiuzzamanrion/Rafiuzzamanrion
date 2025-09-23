@@ -1,34 +1,49 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  Hi there, I'm Rafiuzzaman Rion!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  Hi there, I'm <span style="color:#36BCF7;">Rafiuzzaman Rion</span>!
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Full-Stack+Web+Developer;Front-End+Web+Developer;MERN-Stack+Web+Enthusiast;Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=28&center=true&vCenter=true&lines=Full-Stack+Web+Developer;Front-End+Web+Developer;MERN+Stack+Expert;Open-Source+Contributor;Always+Learning+New+Things!" />
 </p>
 
-### 👋 About Me
-I'm Rafiuzzaman Rion, a passionate Full-stack Web developer from Dhaka, with a love for building dynamic and efficient web applications. Always eager to learn and explore new technologies, I enjoy solving problems and contributing to open-source projects. Welcome to my GitHub profile!!!
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Rafiuzzamanrion?label=GitHub%20Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Rafiuzzamanrion&style=flat-square&color=36BCF7" />
+  <img src="https://img.shields.io/twitter/follow/rafiuzzamanrion?style=social" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Hello! I'm **Rafiuzzaman Rion**, a passionate and creative Full-Stack Web Developer based in Dhaka, Bangladesh 🇧🇩.  
+I specialize in building modern, scalable web applications using the **MERN stack**, and I love transforming ideas into reality through code.  
+I'm always eager to learn new technologies, contribute to open-source, and collaborate with global teams.
+
+- 🌱 Currently learning: **TypeScript, Next.js, and Cloud Technologies**
+- 🚀 Always up for a new challenge!
+- 🧑‍🏫 Mentoring junior developers & sharing knowledge
+- 📢 Open for freelance/remote opportunities
+- 🏆 Competitive coder and hackathon enthusiast
+
+---
 
 ## 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafiuzzaman-rion-ba3575291/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/rafiuzzaman5683/">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/rafiuzzaman_rion/">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
-  </a>
-  
-  <a href="mailto:rafiujjaman5683@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" />
-  </a>
-  </a>
+  <a href="https://www.linkedin.com/in/rafiuzzaman-rion-ba3575291/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/rafiuzzaman5683/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/rafiuzzaman_rion/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" /></a>
+  <a href="mailto:rafiujjaman5683@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" /></a>
 </p>
 
-## 🛠️ Technologies & Tools 
+---
+
+## 🛠️ Technologies & Tools
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" alt="React"/>
@@ -41,13 +56,51 @@ I'm Rafiuzzaman Rion, a passionate Full-stack Web developer from Dhaka, with a l
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS"/>
 </p>
 
-## 🔥 GitHub Stats
+---
 
+## 📊 GitHub Stats
 
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiuzzamanRion&layout=compact&theme=radical" alt="Top Languages" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafiuzzamanrion&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafiuzzamanrion&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafiuzzamanrion&theme=radical" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafiuzzamanrion&theme=radical" alt="Most commit language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiuzzamanrion&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
+---
 
+## 🚀 Featured Projects
 
+- [**MyManager**](https://github.com/clintonoh/mymanager) — Business management solution (MERN stack)
+- [**Portfolio Website**](https://github.com/Rafiuzzamanrion/my_portfolio_latest) — Personal portfolio built with React, Node.js
+- [**MM Client**](https://github.com/clintonoh/mm-client) — Client-side app for project management
+- [More projects...](https://github.com/Rafiuzzamanrion?tab=repositories)
 
+---
+
+## 🏅 Achievements & Interests
+
+- 🏆 2x Hackathon Winner (Dhaka)
+- 📝 15+ Open Source Contributions
+- 💡 Love solving complex problems with simple solutions
+- 🌎 Interested in remote and global collaborations
+- 🎯 Focused on Clean Code & Best Practices
+
+---
+
+## 📫 Let's Collaborate!
+If you're looking for a passionate developer to join your project or team, feel free to contact me!
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/IhPp6g7P5F6iM/giphy.gif" width="120px" />
+  <br/>
+  <b>Thank you for visiting! Have a great day!</b>
+</p>
