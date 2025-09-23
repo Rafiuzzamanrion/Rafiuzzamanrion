@@ -57,8 +57,6 @@ I'm always eager to learn new technologies, contribute to open-source, and colla
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS"/>
 </p>
 
 ---
