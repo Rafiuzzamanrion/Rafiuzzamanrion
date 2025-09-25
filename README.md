@@ -63,13 +63,17 @@ I'm always eager to learn new technologies, contribute to open-source, and colla
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafiuzzamanrion&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafiuzzamanrion&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafiuzzamanrion&theme=radical" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafiuzzamanrion&theme=radical" alt="Most commit language" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiuzzamanrion&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafiuzzamanrion&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  
+  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Rafiuzzamanrion&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiuzzamanrion&layout=compact&theme=radical&hide_border=true)
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafiuzzamanrion&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true)
+
+</div>
 
 ---
 
