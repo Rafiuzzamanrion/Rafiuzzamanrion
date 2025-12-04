@@ -101,5 +101,5 @@ If you're looking for a passionate developer to join your project or team, feel 
 <p align="center">
   <img src="https://media.giphy.com/media/IhPp6g7P5F6iM/giphy.gif" width="120px" />
   <br/>
-  <b>Thank you for visiting! Have a great day!</b>
+  <b>Thank you for visiting! Have a great day! </b>
 </p>
