@@ -94,7 +94,7 @@ I'm always eager to learn new technologies, contribute to open-source, and colla
 ---
 
 ## 📫 Let's Collaborate!
-If you're looking for a passionate developer to join your project or team, feel free to contact me!
+If you're looking for a passionate developer to join your project or team, feel free to contact me! 
 
 ---
 
