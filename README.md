@@ -21,7 +21,7 @@
 ```typescript
 const rion = {
   name:       "Rafiuzzaman Rion",
-  location:   "Dhaka, Bangladesh 🇧🇩",
+  location:   "Dhaka, Bangladesh",
   role:       "Full-Stack Web Developer",
   stack:      ["MongoDB", "Express.js", "React", "Node.js"],
   learning:   ["Python", "C++", "Cloud Technologies"],
