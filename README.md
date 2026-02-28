@@ -77,7 +77,7 @@ I'm always eager to learn new technologies, contribute to open-source, and colla
 
 ## 🚀 Featured Projects
 
-- [**MyManager**]([https://github.com/clintonoh/mymanager](https://mymanager.com/)) — Business management solution (MERN stack)
+- [**MyManager**]((https://mymanager.com/)) — Business management solution (MERN stack)
 - [**LipikaAI**](lipikaai-staging-jwkyl.ondigitalocean.app) — AI & AI tools solution (Full-Stack)
 - [**Portfolio Website**](https://github.com/Rafiuzzamanrion/my_portfolio_latest) — Personal portfolio built with Next.js, Tailwind
 - [**MM Client**]((https://www.rafiuzzamanrion.me/about/about-dark/)) — Client-side app for project management
