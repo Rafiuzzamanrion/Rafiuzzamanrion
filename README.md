@@ -83,24 +83,18 @@ const rion = {
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Rafiuzzamanrion&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF3CAC&fire=FFD166&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=7A8299&dates=7A8299" width="100%" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rafiuzzamanrion&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF3CAC&fire=FFD166&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=7A8299&dates=7A8299" width="100%" alt="GitHub Streak"/>
+</p>
 
-<br/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafiuzzamanrion&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E8EAF0&icon_color=FF3CAC&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiuzzamanrion&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E8EAF0"/>
+</p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Rafiuzzamanrion&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E8EAF0&icon_color=FF3CAC&count_private=true" width="100%" alt="GitHub Stats"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiuzzamanrion&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E8EAF0" width="100%" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiuzzamanrion&bg_color=0D1117&color=00D4FF&line=FF3CAC&point=FFD166&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiuzzamanrion&bg_color=0D1117&color=00D4FF&line=FF3CAC&point=FFD166&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</p>
 
 </div>
 
