@@ -87,8 +87,16 @@ const rion = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rafiuzzamanrion&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E8EAF0&icon_color=FF3CAC&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiuzzamanrion&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E8EAF0" width="49%" alt="Top Languages"/>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Rafiuzzamanrion&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E8EAF0&icon_color=FF3CAC&count_private=true" width="100%" alt="GitHub Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiuzzamanrion&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E8EAF0" width="100%" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
