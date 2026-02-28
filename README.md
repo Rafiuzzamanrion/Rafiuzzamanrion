@@ -25,7 +25,7 @@ const rion = {
   role:       "Full-Stack Web Developer",
   stack:      ["MongoDB", "Express.js", "React", "Node.js"],
   learning:   ["Python", "C++", "Cloud Technologies"],
-  status:     "🟢 Open to freelance, onsite & remote opportunities",
+  status:     "🟢 Open to onsite, remote, and freelance opportunities",
   fun_fact:   "I turn caffeine into code ☕",
 };
 ```
