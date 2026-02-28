@@ -25,7 +25,7 @@ const rion = {
   role:       "Full-Stack Web Developer",
   stack:      ["MongoDB", "Express.js", "React", "Node.js"],
   learning:   ["Python", "C++", "Cloud Technologies"],
-  status:     "🟢 Open to freelance & remote opportunities",
+  status:     "🟢 Open to freelance, onsite & remote opportunities",
   fun_fact:   "I turn caffeine into code ☕",
 };
 ```
@@ -50,6 +50,7 @@ const rion = {
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Learning & Tools**
 
@@ -58,7 +59,6 @@ const rion = {
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
