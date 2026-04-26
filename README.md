@@ -64,22 +64,6 @@ const rion = {
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**📊 MyManager**](https://mymanager.com/) | Business management solution with real-time analytics & team collaboration | `MongoDB` `Express` `React` `Node` |
-| [**🤖 LipikaAI**](http://lipikaai-staging-jwkyl.ondigitalocean.app) | AI-powered tools platform — smart, fast & extensible | `AI/ML` `Full-Stack` `API` |
-| [**🎨 Portfolio**](https://github.com/Rafiuzzamanrion/my_portfolio_latest) | Personal portfolio — blazing fast SSR with beautiful UI | `Next.js` `Tailwind` `SSR` |
-| [**⚙️ MM Client**](https://www.rafiuzzamanrion.me/about/about-dark/) | Polished project management client with intuitive UX | `React` `UI/UX` |
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
