@@ -23,8 +23,8 @@ const rion = {
   name:       "Rafiuzzaman Rion",
   location:   "Dhaka, Bangladesh",
   role:       "Full-Stack Web Developer",
-  stack:      ["MongoDB", "Express.js", "React", "Node.js"],
-  learning:   ["Python", "C++", "Cloud Technologies"],
+  stack:      ["MongoDB", "Express.js", "React", "Python", "Node.js"],
+  learning:   ["C++", "Cloud Technologies"],
   status:     "🟢 Open to onsite, remote, and freelance opportunities",
   fun_fact:   "I turn caffeine into code ☕",
 };
