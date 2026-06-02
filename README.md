@@ -77,19 +77,6 @@ const rion = {
 
 ---
 
-## 🏅 Achievements
-
-<div align="center">
-
-![Achievement](https://img.shields.io/badge/🌟_Open_Source-15%2B_Contributions-00d4ff?style=for-the-badge&labelColor=0d1117)
-![Achievement](https://img.shields.io/badge/🧑‍🏫_Mentoring-Junior_Devs-ff3cac?style=for-the-badge&labelColor=0d1117)
-![Achievement](https://img.shields.io/badge/🏆_Competitive-Coder-ffd166?style=for-the-badge&labelColor=0d1117)
-![Achievement](https://img.shields.io/badge/🌍_Global-Collaborator-7b5ea7?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
